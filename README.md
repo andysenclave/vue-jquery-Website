@@ -1,6 +1,6 @@
 # andysenclave-client
 
-> A Vue.js project
+> A Vue.js and jQuery project
 
 ## Build Setup
 
